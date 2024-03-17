@@ -24,10 +24,17 @@ Before start Registering Details start the Apache and MYSQL on XAMMPP Control Pa
 Lets 'see in the below image
 ![image](https://github.com/rupasrigithub/Connecting-HTML-Form-With-MYSQL-Database-Using-PHP/assets/140321029/9338ed8c-dfe9-40de-aee0-6dd02bf5320c)
 
-Step 3: 
-Step 2: Create an HTML form
+Step 3: Create an HTML form
 Create a new HTML file (index.html for example) with a form that collects the necessary information:
+
 ![image](https://github.com/rupasrigithub/Connecting-HTML-Form-With-MYSQL-Database-Using-PHP/assets/140321029/e468d0e3-094b-4555-87d1-46e58e713958)
+
+Step 4:
+By Registering the details can be stored in the database:
+
+![image](https://github.com/rupasrigithub/Connecting-HTML-Form-With-MYSQL-Database-Using-PHP/assets/140321029/4fd3fd9b-34cb-4527-83f8-492ab1bedd72)
+
+
 
 
 
