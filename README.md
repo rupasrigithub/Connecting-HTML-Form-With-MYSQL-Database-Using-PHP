@@ -1,4 +1,5 @@
 Step 1:
+
 Set up your MySQL database
 Install MySQL on your server if you haven't already.
 Create a new database and a table to store your form data. 
